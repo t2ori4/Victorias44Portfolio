@@ -4,8 +4,8 @@
 
 ### Graphic Design Projects
 
-[Project 1: Blend Image](/sample_page)
-<img src="images/blendimages.png?raw=true"/>
+[Project 1: Eclipse](/sample_page)
+<img src="images/eclipse-1492818_1920.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
