@@ -8,8 +8,8 @@
 <img src="images/eclipse-1492818_1920.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 2 Blur](/pdf/sample_presentation.pdf)
+<img src="images/blur.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
