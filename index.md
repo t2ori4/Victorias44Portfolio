@@ -16,12 +16,14 @@
 <img src="images/pinkfrog.png?raw=true"/>
 
 ---
-[Project 3 3D pop out effect](http://example.com/)
+[Project 4 3D pop out effect](http://example.com/)
 <img src="images/manhand.png?raw=true"/>
 
 ---
+[Project 5 ripple effect](http://example.com/)
+<img src="images/future.png?raw=true"/>
 
-### Category Name 2
+---### Category Name 2
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
