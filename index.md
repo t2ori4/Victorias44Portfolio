@@ -23,6 +23,11 @@
 [Project 5 ripple effect](http://example.com/)
 <img src="images/future.png?raw=true"/>
 
+---
+[Project 6 mothers day special](http://example.com/)
+<img src="images/My project (1).png?raw=true"/>
+
+---
 ---### Category Name 2
 
 - [Project 1 Title](http://example.com/)
